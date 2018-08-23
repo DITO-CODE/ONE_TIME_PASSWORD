@@ -3,4 +3,5 @@ node_modules/**/*
 npm-debug.*
 
 
-./functions-one-time-password/node_modules
+functions-one-time-password/node_modules
+functions-one-time-password/package-lock.json
